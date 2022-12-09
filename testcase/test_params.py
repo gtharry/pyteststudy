@@ -11,3 +11,7 @@ class Testdo:
     @allure.title("用例2")
     def test_02(self):
         print("你好呀：")
+        
+    @allure.title("用例3")
+    def test_03(self):
+        print("你好呀：")
