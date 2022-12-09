@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Dec 09 09:01:59 CST 2022","Fri Dec 09 09:01:59 CST 2022","0","testcase","test_params","Testdo","","","用例2",""
+"passed","Fri Dec 09 09:01:59 CST 2022","Fri Dec 09 09:01:59 CST 2022","7","testcase","test_params","Testdo","","","用例1",""
